@@ -1,4 +1,6 @@
 # SQL Chalenge
+
+[Try This Chalenge](https://github.com/wjsutton/preppin-data/blob/main/2023/SQL/2023_week_03.sql)
  
 ### Solutions
 
